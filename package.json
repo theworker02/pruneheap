@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/pruneheap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Prune numeric heap values, ranges, and human-readable units.",
+  "bin": {
+    "pruneheap": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/pruneheap.git"
+  },
+  "homepage": "https://theworker02.github.io/pruneheap/",
+  "keywords": [
+    "prune",
+    "heap",
+    "number",
+    "cli",
+    "toolkit"
+  ]
+}
